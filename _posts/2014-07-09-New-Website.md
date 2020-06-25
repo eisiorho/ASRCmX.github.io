@@ -1,8 +1,8 @@
 ---
 title: New Website!
-author: Ben Barad
+author: Eta Isiorho
 layout: post
 group: news
 ---
 
-The Fraser Lab has a new website! It should be much nicer for viewing on small screens.
+The CUNY ASRC Macromolecular Crystallization Facility now has a website! Check back for more content.
